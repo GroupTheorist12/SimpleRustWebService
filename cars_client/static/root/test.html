@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<script>
+function parameters() {
+    let url = window.location.href;
+    let paramString = new RegExp('(.*)[?](.*)').exec(url);
+    if (null == paramString) {
+      return {'base': url, 'params': null};
+    }
+  
+    if (paramString[2].includes("&amp;")) {
+      var paramList = paramString[2].split("&amp;");
+    } else {
+      var paramList = paramString[2].split("&");
+    }
+  
+    let params = [];
+  
+    for (let i = 0; i < paramList.length; i++) {
+      let values = paramList[i].split("=");
+      params[values[0]] = values[1];
+    }
+    return {"base": paramString[1], "params": params};
+  }
+
+  let p = parameters();
+
+  var url = "http://127.0.0.1:9100/cars/A/1999/make:like,first_year:gt";
+
+  if(p.params != null)
+  {
+    let car = p.params["car"];
+    let first_year = p.params["first_year"];
+    let query = p.params["query"];
+
+    url = "http://127.0.0.1:9100/cars/" + 
+    car + "/" +
+    first_year + "/" +
+    query;
+  }
+
+  alert(url);
+   //log the data;
+</script>
+</body>
+</html> 
+

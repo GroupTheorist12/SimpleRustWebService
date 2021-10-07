@@ -1,0 +1,6736 @@
+{
+  "cars": [
+    {
+      "make": "Acura",
+      "model": "CL",
+      "first_year": 1998,
+      "last_year": 2003
+    },
+    {
+      "make": "Acura",
+      "model": "EL",
+      "first_year": 1997,
+      "last_year": 2005
+    },
+    {
+      "make": "Acura",
+      "model": "ILX",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "Integra",
+      "first_year": 1998,
+      "last_year": 2006
+    },
+    {
+      "make": "Acura",
+      "model": "MDX",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "NSX",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "RDX",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "RL",
+      "first_year": 1995,
+      "last_year": 2012
+    },
+    {
+      "make": "Acura",
+      "model": "RLX",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "RSX",
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "make": "Acura",
+      "model": "TL",
+      "first_year": 1999,
+      "last_year": 2014
+    },
+    {
+      "make": "Acura",
+      "model": "TLX",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Acura",
+      "model": "TSX",
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "make": "Acura",
+      "model": "ZDX",
+      "first_year": 2010,
+      "last_year": 2013
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "146",
+      "first_year": 1994,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "147",
+      "first_year": 1998,
+      "last_year": 2010
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "147 GTA",
+      "first_year": 2002,
+      "last_year": 2010
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "156",
+      "first_year": 1997,
+      "last_year": 2007
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "156 GTA",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "159",
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "166",
+      "first_year": 1998,
+      "last_year": 2007
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "4C",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "8C Competizione",
+      "first_year": 2008,
+      "last_year": 2010
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Brera",
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Giulietta",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "GT",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "GTV",
+      "first_year": 1995,
+      "last_year": 2006
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "MiTo",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Spider",
+      "first_year": 1998,
+      "last_year": 2010
+    },
+    {
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Cygnet",
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "make": "Aston Martin",
+      "model": "DB11",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "DB9",
+      "first_year": 2004,
+      "last_year": 2016
+    },
+    {
+      "make": "Aston Martin",
+      "model": "DBS",
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "make": "Aston Martin",
+      "model": "DBS Violante",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Aston Martin",
+      "model": "DBX",
+      "first_year": 2020,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Rapide",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "V12 Vantage",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "V8 Vantage",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Valkyrie",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Vanquish",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Virage",
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "make": "Aston Martin",
+      "model": "Zagato Coupe",
+      "first_year": 2016,
+      "last_year": 2016
+    },
+    {
+      "make": "Audi",
+      "model": "A1",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A2",
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "make": "Audi",
+      "model": "A3",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A4 Allroad Quattro",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A5",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A6",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A7",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "A8",
+      "first_year": 1994,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Allroad",
+      "first_year": 2000,
+      "last_year": 2011
+    },
+    {
+      "make": "Audi",
+      "model": "E-Tron",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Q2",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Q3",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Q5",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Q7",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "Q8",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "R8",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS Q3",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS3",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS4",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS5",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS6",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "RS7",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S3",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S4",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S5",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S6",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S7",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "S8",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "SQ2",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "SQ5",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "SQ7",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "SQ8",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "TT",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Audi",
+      "model": "TT RS",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Audi",
+      "model": "TTS",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Bentley",
+      "model": "Arnage",
+      "first_year": 1999,
+      "last_year": 2007
+    },
+    {
+      "make": "Bentley",
+      "model": "Azure",
+      "first_year": 1999,
+      "last_year": 2009
+    },
+    {
+      "make": "Bentley",
+      "model": "Bentayga",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Bentley",
+      "model": "Brooklands",
+      "first_year": 2008,
+      "last_year": 2011
+    },
+    {
+      "make": "Bentley",
+      "model": "Continental",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Bentley",
+      "model": "Continental Flying Spur",
+      "first_year": 2005,
+      "last_year": 2013
+    },
+    {
+      "make": "Bentley",
+      "model": "Continental GT",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Bentley",
+      "model": "Flying Spur",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Bentley",
+      "model": "Mulsanne",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "1 series",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "2 series",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "3 series",
+      "first_year": 1982,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "4 series",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "5 series",
+      "first_year": 1988,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "6 series",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "7 series",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "8 series",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "i3",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "i8",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "M2",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "M3",
+      "first_year": 1992,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "M4",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "M5",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "M6",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X1",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X2",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X3 M",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X4",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X4 M",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X5 M",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X6",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X6 M",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "X7",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "Z3",
+      "first_year": 1996,
+      "last_year": 2003
+    },
+    {
+      "make": "BMW",
+      "model": "Z4",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "BMW",
+      "model": "Z8",
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "make": "Brilliance",
+      "model": "H230",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Brilliance",
+      "model": "V3",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Brilliance",
+      "model": "V5",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Bugatti",
+      "model": "Veyron",
+      "first_year": 2005,
+      "last_year": 2015
+    },
+    {
+      "make": "Buick",
+      "model": "Century",
+      "first_year": 1997,
+      "last_year": 2005
+    },
+    {
+      "make": "Buick",
+      "model": "Enclave",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Buick",
+      "model": "Envision",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Buick",
+      "model": "La Crosse",
+      "first_year": 2004,
+      "last_year": 2016
+    },
+    {
+      "make": "Buick",
+      "model": "Le Sabre",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "Buick",
+      "model": "Lucerne",
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "make": "Buick",
+      "model": "Park Avenue",
+      "first_year": 1996,
+      "last_year": 2012
+    },
+    {
+      "make": "Buick",
+      "model": "Rainier",
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "make": "Buick",
+      "model": "Regal",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Buick",
+      "model": "Rendezvouz",
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "make": "Buick",
+      "model": "Terraza",
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "make": "Buick",
+      "model": "Verano",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "BYD",
+      "model": "Qin",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "ATS",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "ATS-V",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "BLS",
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "make": "Cadillac",
+      "model": "CT6",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "CTS",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "De Ville",
+      "first_year": 2000,
+      "last_year": 2005
+    },
+    {
+      "make": "Cadillac",
+      "model": "DTS",
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "make": "Cadillac",
+      "model": "Eldorado",
+      "first_year": 1992,
+      "last_year": 2002
+    },
+    {
+      "make": "Cadillac",
+      "model": "ELR",
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "make": "Cadillac",
+      "model": "Escalade",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "Seville",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Cadillac",
+      "model": "SRX",
+      "first_year": 2004,
+      "last_year": 2016
+    },
+    {
+      "make": "Cadillac",
+      "model": "STS",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Cadillac",
+      "model": "XLR",
+      "first_year": 2003,
+      "last_year": 2009
+    },
+    {
+      "make": "Cadillac",
+      "model": "XT4",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "XT5",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "XT6",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Cadillac",
+      "model": "XTS",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "CS35",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "CS35 Plus",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "CS55",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "CS75",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "CS95",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "Eado",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Changan",
+      "model": "Raeton",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Amulet",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Chery",
+      "model": "Arrizo 7",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Bonus",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Bonus 3",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "CrossEastar",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Eastar",
+      "first_year": 2003,
+      "last_year": 2015
+    },
+    {
+      "make": "Chery",
+      "model": "Fora",
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "make": "Chery",
+      "model": "IndiS",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Kimo",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Chery",
+      "model": "M11",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "QQ",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "QQ6",
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo 3",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo 4",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo 5",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo 7",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Tiggo 8",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Chery",
+      "model": "Very",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Astro",
+      "first_year": 1995,
+      "last_year": 2005
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Avalanche",
+      "first_year": 2002,
+      "last_year": 2013
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Blazer",
+      "first_year": 1994,
+      "last_year": 2005
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Captiva",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cavalier",
+      "first_year": 1995,
+      "last_year": 2005
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cobalt",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Epica",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Express",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "HHR",
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Impala",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Lacetti",
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Lanos",
+      "first_year": 1997,
+      "last_year": 2012
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Monte Carlo",
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Niva",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Orlando",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Rezzo",
+      "first_year": 2000,
+      "last_year": 2012
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Spark",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "SSR",
+      "first_year": 2003,
+      "last_year": 2006
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "TrailBlazer",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Trax",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Uplander",
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Venture",
+      "first_year": 1996,
+      "last_year": 2005
+    },
+    {
+      "make": "Chrysler",
+      "model": "200",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Chrysler",
+      "model": "300",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Chrysler",
+      "model": "300M",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Chrysler",
+      "model": "Aspen",
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "make": "Chrysler",
+      "model": "Concorde",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Chrysler",
+      "model": "Crossfire",
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "make": "Chrysler",
+      "model": "Grand Voyager",
+      "first_year": 2008,
+      "last_year": 2015
+    },
+    {
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Chrysler",
+      "model": "PT Cruiser",
+      "first_year": 2000,
+      "last_year": 2010
+    },
+    {
+      "make": "Chrysler",
+      "model": "Sebring",
+      "first_year": 2000,
+      "last_year": 2010
+    },
+    {
+      "make": "Chrysler",
+      "model": "Town \u0026 Country",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Chrysler",
+      "model": "Voyager",
+      "first_year": 1995,
+      "last_year": 2016
+    },
+    {
+      "make": "Citroen",
+      "model": "Berlingo",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C-Crosser",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Citroen",
+      "model": "C-Elysee",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C1",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C2",
+      "first_year": 2003,
+      "last_year": 2009
+    },
+    {
+      "make": "Citroen",
+      "model": "C3",
+      "first_year": 2002,
+      "last_year": 2016
+    },
+    {
+      "make": "Citroen",
+      "model": "C3 Aircross",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C3 Picasso",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C3 Pluriel",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Citroen",
+      "model": "C4",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C4 Aircross",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C4 Cactus",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C4 Picasso",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C5",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "C6",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Citroen",
+      "model": "C8",
+      "first_year": 2002,
+      "last_year": 2014
+    },
+    {
+      "make": "Citroen",
+      "model": "DS 7 Crossback",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "DS3",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "DS4",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "DS5",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "Grand C4 Picasso",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "Jumpy",
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "make": "Citroen",
+      "model": "Nemo",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "Saxo",
+      "first_year": 1996,
+      "last_year": 2004
+    },
+    {
+      "make": "Citroen",
+      "model": "Spacetourer",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Citroen",
+      "model": "Xsara",
+      "first_year": 1997,
+      "last_year": 2006
+    },
+    {
+      "make": "Citroen",
+      "model": "Xsara Picasso",
+      "first_year": 1999,
+      "last_year": 2012
+    },
+    {
+      "make": "Daewoo",
+      "model": "Evanda",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Daewoo",
+      "model": "Kalos",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Daewoo",
+      "model": "Leganza",
+      "first_year": 1997,
+      "last_year": 2002
+    },
+    {
+      "make": "Daewoo",
+      "model": "Magnus",
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "make": "Daewoo",
+      "model": "Matiz",
+      "first_year": 2000,
+      "last_year": 2015
+    },
+    {
+      "make": "Daewoo",
+      "model": "Nexia",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Daewoo",
+      "model": "Nubira",
+      "first_year": 1997,
+      "last_year": 2008
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Applause",
+      "first_year": 1997,
+      "last_year": 2000
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Cast",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Copen",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Cuore",
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Gran Move",
+      "first_year": 1996,
+      "last_year": 2002
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Luxio",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Materia",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Mebius",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Move",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Rocky",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Sirion",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Terios",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Daihatsu",
+      "model": "Trevis",
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "make": "Daihatsu",
+      "model": "YRV",
+      "first_year": 2000,
+      "last_year": 2005
+    },
+    {
+      "make": "Datsun",
+      "model": "mi-DO",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Datsun",
+      "model": "on-DO",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Avenger",
+      "first_year": 1994,
+      "last_year": 2014
+    },
+    {
+      "make": "Dodge",
+      "model": "Caliber",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Dodge",
+      "model": "Caliber SRT4",
+      "first_year": 2007,
+      "last_year": 2010
+    },
+    {
+      "make": "Dodge",
+      "model": "Caravan",
+      "first_year": 1995,
+      "last_year": 2016
+    },
+    {
+      "make": "Dodge",
+      "model": "Challenger",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Charger",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Dakota",
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "make": "Dodge",
+      "model": "Dart",
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "make": "Dodge",
+      "model": "Durango",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Intrepid",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Dodge",
+      "model": "Journey",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Magnum",
+      "first_year": 2004,
+      "last_year": 2008
+    },
+    {
+      "make": "Dodge",
+      "model": "Neon",
+      "first_year": 2000,
+      "last_year": 2005
+    },
+    {
+      "make": "Dodge",
+      "model": "Nitro",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Ram 2500",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Ram 3500",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Dodge",
+      "model": "Ram SRT10",
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "make": "Dodge",
+      "model": "Stratus",
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "make": "Dodge",
+      "model": "Viper",
+      "first_year": 1996,
+      "last_year": 2017
+    },
+    {
+      "make": "Dongfeng",
+      "model": "580",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Dongfeng",
+      "model": "A30",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Dongfeng",
+      "model": "AX7",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Dongfeng",
+      "model": "H30 Cross",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Besturn B30",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Besturn B50",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Besturn X40",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Besturn X80",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Oley",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "FAW",
+      "model": "Vita",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Ferrari",
+      "model": "348",
+      "first_year": 1993,
+      "last_year": 1995
+    },
+    {
+      "make": "Ferrari",
+      "model": "360",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "Ferrari",
+      "model": "456",
+      "first_year": 1992,
+      "last_year": 2003
+    },
+    {
+      "make": "Ferrari",
+      "model": "458",
+      "first_year": 2009,
+      "last_year": 2016
+    },
+    {
+      "make": "Ferrari",
+      "model": "488",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Ferrari",
+      "model": "512",
+      "first_year": 1991,
+      "last_year": 2004
+    },
+    {
+      "make": "Ferrari",
+      "model": "550",
+      "first_year": 1996,
+      "last_year": 2002
+    },
+    {
+      "make": "Ferrari",
+      "model": "575 M",
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "make": "Ferrari",
+      "model": "599 GTB Fiorano",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Ferrari",
+      "model": "599 GTO",
+      "first_year": 2010,
+      "last_year": 2012
+    },
+    {
+      "make": "Ferrari",
+      "model": "612",
+      "first_year": 2004,
+      "last_year": 2011
+    },
+    {
+      "make": "Ferrari",
+      "model": "812",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Ferrari",
+      "model": "California",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Ferrari",
+      "model": "California T",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Ferrari",
+      "model": "Challenge Stradale",
+      "first_year": 2003,
+      "last_year": 2003
+    },
+    {
+      "make": "Ferrari",
+      "model": "Enzo",
+      "first_year": 2002,
+      "last_year": 2004
+    },
+    {
+      "make": "Ferrari",
+      "model": "F12",
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "make": "Ferrari",
+      "model": "F355",
+      "first_year": 1994,
+      "last_year": 1999
+    },
+    {
+      "make": "Ferrari",
+      "model": "F430",
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "make": "Ferrari",
+      "model": "F50",
+      "first_year": 1995,
+      "last_year": 1997
+    },
+    {
+      "make": "Ferrari",
+      "model": "F512 M",
+      "first_year": 1994,
+      "last_year": 1996
+    },
+    {
+      "make": "Ferrari",
+      "model": "FF",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Ferrari",
+      "model": "GTC4 Lusso",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Ferrari",
+      "model": "LaFerrari",
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "make": "Fiat",
+      "model": "124 Spider",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "500",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "500L",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "500X",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Albea",
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "make": "Fiat",
+      "model": "Brava",
+      "first_year": 1995,
+      "last_year": 2003
+    },
+    {
+      "make": "Fiat",
+      "model": "Bravo",
+      "first_year": 1995,
+      "last_year": 2016
+    },
+    {
+      "make": "Fiat",
+      "model": "Coupe",
+      "first_year": 1993,
+      "last_year": 2009
+    },
+    {
+      "make": "Fiat",
+      "model": "Croma",
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "make": "Fiat",
+      "model": "Doblo",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Ducato",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Freemont",
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "make": "Fiat",
+      "model": "Grande Punto",
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "make": "Fiat",
+      "model": "Idea",
+      "first_year": 2004,
+      "last_year": 2016
+    },
+    {
+      "make": "Fiat",
+      "model": "Linea",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Fiat",
+      "model": "Marea",
+      "first_year": 1996,
+      "last_year": 2006
+    },
+    {
+      "make": "Fiat",
+      "model": "Multipla",
+      "first_year": 1998,
+      "last_year": 2010
+    },
+    {
+      "make": "Fiat",
+      "model": "Palio",
+      "first_year": 1996,
+      "last_year": 2017
+    },
+    {
+      "make": "Fiat",
+      "model": "Panda",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Panda 4x4",
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "make": "Fiat",
+      "model": "Punto",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Qubo",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Sedici",
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "make": "Fiat",
+      "model": "Siena",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Stilo",
+      "first_year": 2001,
+      "last_year": 2010
+    },
+    {
+      "make": "Fiat",
+      "model": "Strada",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Tipo",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Fiat",
+      "model": "Ulysse",
+      "first_year": 2002,
+      "last_year": 2010
+    },
+    {
+      "make": "Fisker",
+      "model": "Karma",
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "make": "Ford",
+      "model": "B-Max",
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "make": "Ford",
+      "model": "C-Max",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Cougar",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Ford",
+      "model": "Crown Victoria",
+      "first_year": 1999,
+      "last_year": 2011
+    },
+    {
+      "make": "Ford",
+      "model": "EcoSport",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Edge",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Escape",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Excursion",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "Ford",
+      "model": "Expedition",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Explorer",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Explorer Sport Trac",
+      "first_year": 2007,
+      "last_year": 2010
+    },
+    {
+      "make": "Ford",
+      "model": "F-150",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "F-250",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "F-350",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Falcon",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Fiesta",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Five Hundred",
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "make": "Ford",
+      "model": "Flex",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Focus",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Focus Active",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Freestar",
+      "first_year": 2003,
+      "last_year": 2009
+    },
+    {
+      "make": "Ford",
+      "model": "Freestyle",
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "make": "Ford",
+      "model": "Fusion",
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "make": "Ford",
+      "model": "Galaxy",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Ka",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Kuga",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Maverick",
+      "first_year": 1992,
+      "last_year": 2009
+    },
+    {
+      "make": "Ford",
+      "model": "Mondeo",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Shelby GT350",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Shelby GT500",
+      "first_year": 2020,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Puma",
+      "first_year": 1997,
+      "last_year": 2004
+    },
+    {
+      "make": "Ford",
+      "model": "Ranger",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "S-Max",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Taurus",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Taurus X",
+      "first_year": 2007,
+      "last_year": 2009
+    },
+    {
+      "make": "Ford",
+      "model": "Thunderbird",
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "make": "Ford",
+      "model": "Tourneo Connect",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Transit",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Ford",
+      "model": "Transit Connect",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "GAZ",
+      "model": "3102",
+      "first_year": 1997,
+      "last_year": 2009
+    },
+    {
+      "make": "GAZ",
+      "model": "31105",
+      "first_year": 1997,
+      "last_year": 2009
+    },
+    {
+      "make": "GAZ",
+      "model": "Siber",
+      "first_year": 2008,
+      "last_year": 2010
+    },
+    {
+      "make": "GAZ",
+      "model": "Sobol",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Atlas",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Coolray",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Emgrand 7",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Emgrand EC7",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Emgrand GS",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Emgrand X7",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "GC9",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "G\u04216",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "MK",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Geely",
+      "model": "Otaka",
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "make": "Geely",
+      "model": "Vision",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Genesis",
+      "model": "G70",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Genesis",
+      "model": "G80",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Genesis",
+      "model": "G90",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Acadia",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Canyon",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Envoy",
+      "first_year": 2001,
+      "last_year": 2009
+    },
+    {
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Sierra 2500",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Terrain",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "GMC",
+      "model": "Yukon",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Great Wall",
+      "model": "Cowry",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Great Wall",
+      "model": "Deer",
+      "first_year": 2003,
+      "last_year": 2013
+    },
+    {
+      "make": "Great Wall",
+      "model": "Hover",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Great Wall",
+      "model": "Hover M2",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Great Wall",
+      "model": "Pegasus",
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "make": "Great Wall",
+      "model": "Peri",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Great Wall",
+      "model": "Safe",
+      "first_year": 2002,
+      "last_year": 2010
+    },
+    {
+      "make": "Great Wall",
+      "model": "Sailor",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Great Wall",
+      "model": "Sing",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Great Wall",
+      "model": "Socool",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Great Wall",
+      "model": "Wingle",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Haval",
+      "model": "F7",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Haval",
+      "model": "H4",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Haval",
+      "model": "H6",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Haval",
+      "model": "H9",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Holden",
+      "model": "Commodore",
+      "first_year": 2004,
+      "last_year": 2017
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "CR-V",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "CR-Z",
+      "first_year": 2010,
+      "last_year": 2016
+    },
+    {
+      "make": "Honda",
+      "model": "Crosstour",
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "make": "Honda",
+      "model": "Element",
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "make": "Honda",
+      "model": "Fit",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "FR-V",
+      "first_year": 2004,
+      "last_year": 2009
+    },
+    {
+      "make": "Honda",
+      "model": "HR-V",
+      "first_year": 1998,
+      "last_year": 2006
+    },
+    {
+      "make": "Honda",
+      "model": "HR-V II (GJ)",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Insight",
+      "first_year": 1999,
+      "last_year": 2014
+    },
+    {
+      "make": "Honda",
+      "model": "Jade",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Jazz",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Legend",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Odyssey",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Honda",
+      "model": "Prelude",
+      "first_year": 1996,
+      "last_year": 2001
+    },
+    {
+      "make": "Honda",
+      "model": "Ridgeline",
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "make": "Honda",
+      "model": "S2000",
+      "first_year": 1999,
+      "last_year": 2009
+    },
+    {
+      "make": "Honda",
+      "model": "Shuttle",
+      "first_year": 1994,
+      "last_year": 2002
+    },
+    {
+      "make": "Honda",
+      "model": "Stream",
+      "first_year": 2001,
+      "last_year": 2015
+    },
+    {
+      "make": "Honda",
+      "model": "Vezel",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Hummer",
+      "model": "H1",
+      "first_year": 1992,
+      "last_year": 2006
+    },
+    {
+      "make": "Hummer",
+      "model": "H2",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Hummer",
+      "model": "H3",
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "make": "Hyundai",
+      "model": "Accent",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Atos Prime",
+      "first_year": 1999,
+      "last_year": 2014
+    },
+    {
+      "make": "Hyundai",
+      "model": "Azera",
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "make": "Hyundai",
+      "model": "Centennial",
+      "first_year": 1999,
+      "last_year": 2008
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Entourage",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Hyundai",
+      "model": "Eon",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Equus",
+      "first_year": 2009,
+      "last_year": 2016
+    },
+    {
+      "make": "Hyundai",
+      "model": "Galloper",
+      "first_year": 1998,
+      "last_year": 2003
+    },
+    {
+      "make": "Hyundai",
+      "model": "Genesis",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Hyundai",
+      "model": "Genesis Coupe",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Hyundai",
+      "model": "Getz",
+      "first_year": 2002,
+      "last_year": 2011
+    },
+    {
+      "make": "Hyundai",
+      "model": "Grandeur",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "H-1",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "i10",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "i30",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "i30 N",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "i40",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Ioniq",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "ix20",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "ix35",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Kona",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Matrix",
+      "first_year": 2001,
+      "last_year": 2014
+    },
+    {
+      "make": "Hyundai",
+      "model": "Palisade",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Porter",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Solaris",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Sonata",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Terracan",
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "make": "Hyundai",
+      "model": "Trajet",
+      "first_year": 2000,
+      "last_year": 2008
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tucson",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Veloster",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "Veracruz",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "make": "Hyundai",
+      "model": "Xcent",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Hyundai",
+      "model": "XG",
+      "first_year": 1998,
+      "last_year": 2005
+    },
+    {
+      "make": "Infiniti",
+      "model": "EX",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Infiniti",
+      "model": "FX",
+      "first_year": 2003,
+      "last_year": 2013
+    },
+    {
+      "make": "Infiniti",
+      "model": "G",
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "make": "Infiniti",
+      "model": "I35",
+      "first_year": 2002,
+      "last_year": 2004
+    },
+    {
+      "make": "Infiniti",
+      "model": "JX",
+      "first_year": 2012,
+      "last_year": 2013
+    },
+    {
+      "make": "Infiniti",
+      "model": "M",
+      "first_year": 2001,
+      "last_year": 2013
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q30",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q40",
+      "first_year": 2014,
+      "last_year": 2015
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q45",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q50",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q60",
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "make": "Infiniti",
+      "model": "Q70",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX30",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX4",
+      "first_year": 1997,
+      "last_year": 2003
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX50",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX56",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX60",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX70",
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "make": "Infiniti",
+      "model": "QX80",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Isuzu",
+      "model": "Ascender",
+      "first_year": 2002,
+      "last_year": 2008
+    },
+    {
+      "make": "Isuzu",
+      "model": "Axiom",
+      "first_year": 2002,
+      "last_year": 2004
+    },
+    {
+      "make": "Isuzu",
+      "model": "D-Max",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Isuzu",
+      "model": "D-Max Rodeo",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Isuzu",
+      "model": "I280",
+      "first_year": 2005,
+      "last_year": 2006
+    },
+    {
+      "make": "Isuzu",
+      "model": "I290",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Isuzu",
+      "model": "I350",
+      "first_year": 2005,
+      "last_year": 2006
+    },
+    {
+      "make": "Isuzu",
+      "model": "I370",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Isuzu",
+      "model": "Rodeo",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Isuzu",
+      "model": "Trooper",
+      "first_year": 1992,
+      "last_year": 2002
+    },
+    {
+      "make": "Isuzu",
+      "model": "VehiCross",
+      "first_year": 1997,
+      "last_year": 2001
+    },
+    {
+      "make": "Iveco",
+      "model": "Daily",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "E-Pace",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "F-Pace",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "F-Type",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "I-Pace",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "S-Type",
+      "first_year": 1998,
+      "last_year": 2008
+    },
+    {
+      "make": "Jaguar",
+      "model": "X-Type",
+      "first_year": 2001,
+      "last_year": 2009
+    },
+    {
+      "make": "Jaguar",
+      "model": "XE",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "XF",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "XJ",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Jaguar",
+      "model": "XK/XKR",
+      "first_year": 2002,
+      "last_year": 2014
+    },
+    {
+      "make": "Jeep",
+      "model": "Cherokee",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Jeep",
+      "model": "Commander",
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "make": "Jeep",
+      "model": "Compass",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Jeep",
+      "model": "Gladiator",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Jeep",
+      "model": "Liberty",
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "make": "Jeep",
+      "model": "Patriot",
+      "first_year": 2006,
+      "last_year": 2016
+    },
+    {
+      "make": "Jeep",
+      "model": "Renegade",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Carens",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Carnival",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Ceed",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Cerato",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Clarus",
+      "first_year": 1998,
+      "last_year": 2001
+    },
+    {
+      "make": "Kia",
+      "model": "Forte",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "K900",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Magentis",
+      "first_year": 2001,
+      "last_year": 2010
+    },
+    {
+      "make": "Kia",
+      "model": "Mohave",
+      "first_year": 2008,
+      "last_year": 2011
+    },
+    {
+      "make": "Kia",
+      "model": "Niro",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Opirus",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Kia",
+      "model": "Optima",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Picanto",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "ProCeed",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Quoris",
+      "first_year": 2012,
+      "last_year": 2018
+    },
+    {
+      "make": "Kia",
+      "model": "Ray",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Rio",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Rio X-Line",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Seltos",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Shuma",
+      "first_year": 1997,
+      "last_year": 2005
+    },
+    {
+      "make": "Kia",
+      "model": "Sorento",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Sorento Prime",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Soul",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Spectra",
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "make": "Kia",
+      "model": "Sportage",
+      "first_year": 1993,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Stinger",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Stonic",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Telluride",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Kia",
+      "model": "Venga",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Centenario",
+      "first_year": 2016,
+      "last_year": 2017
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Diablo",
+      "first_year": 1991,
+      "last_year": 2001
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Gallardo",
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Huracan",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Murcielago",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Reventon",
+      "first_year": 2008,
+      "last_year": 2008
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Urus",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Lancia",
+      "model": "Delta",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Lancia",
+      "model": "Lybra",
+      "first_year": 1999,
+      "last_year": 2007
+    },
+    {
+      "make": "Lancia",
+      "model": "Musa",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Lancia",
+      "model": "Phedra",
+      "first_year": 2002,
+      "last_year": 2010
+    },
+    {
+      "make": "Lancia",
+      "model": "Thema",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Lancia",
+      "model": "Thesis",
+      "first_year": 2001,
+      "last_year": 2009
+    },
+    {
+      "make": "Lancia",
+      "model": "Ypsilon",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Defender",
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "make": "Land Rover",
+      "model": "Discovery",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Discovery Sport",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Evoque",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Freelander",
+      "first_year": 1998,
+      "last_year": 2014
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "first_year": 1994,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Velar",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "CT",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "ES",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "GS",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "GX",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "HS",
+      "first_year": 2009,
+      "last_year": 2014
+    },
+    {
+      "make": "Lexus",
+      "model": "IS",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "LC",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "LFA",
+      "first_year": 2010,
+      "last_year": 2012
+    },
+    {
+      "make": "Lexus",
+      "model": "LS",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "LX",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "NX",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "RC",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "RX",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Lexus",
+      "model": "SC",
+      "first_year": 1999,
+      "last_year": 2010
+    },
+    {
+      "make": "Lexus",
+      "model": "UX",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Lifan",
+      "model": "Breez",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Lifan",
+      "model": "Cebrium",
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "make": "Lifan",
+      "model": "Celliya",
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "make": "Lifan",
+      "model": "Smily",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Lifan",
+      "model": "Solano",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Lifan",
+      "model": "X50",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Lifan",
+      "model": "X60",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "Aviator",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "Corsair",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "Mark LT",
+      "first_year": 2006,
+      "last_year": 2007
+    },
+    {
+      "make": "Lincoln",
+      "model": "MKC",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "MKS",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Lincoln",
+      "model": "MKT",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "MKX",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "MKZ",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "Navigator",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Lincoln",
+      "model": "Town Car",
+      "first_year": 1998,
+      "last_year": 2011
+    },
+    {
+      "make": "Lincoln",
+      "model": "Zephyr",
+      "first_year": 2006,
+      "last_year": 2006
+    },
+    {
+      "make": "Lotus",
+      "model": "Elise",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Lotus",
+      "model": "Europa S",
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "make": "Lotus",
+      "model": "Evora",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Lotus",
+      "model": "Exige",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Marussia",
+      "model": "B1",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Marussia",
+      "model": "B2",
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "make": "Maserati",
+      "model": "3200 GT",
+      "first_year": 1998,
+      "last_year": 2002
+    },
+    {
+      "make": "Maserati",
+      "model": "Ghibli",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Maserati",
+      "model": "Gran Cabrio",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Maserati",
+      "model": "Gran Turismo ",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Maserati",
+      "model": "Gran Turismo S",
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "make": "Maserati",
+      "model": "Levante",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Maserati",
+      "model": "Quattroporte",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Maserati",
+      "model": "Quattroporte S",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Maybach",
+      "model": "57",
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "make": "Maybach",
+      "model": "57 S",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Maybach",
+      "model": "62",
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "make": "Maybach",
+      "model": "62 S",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Maybach",
+      "model": "Landaulet",
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "make": "Mazda",
+      "model": "2",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "3",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "323",
+      "first_year": 1998,
+      "last_year": 2003
+    },
+    {
+      "make": "Mazda",
+      "model": "5",
+      "first_year": 2005,
+      "last_year": 2015
+    },
+    {
+      "make": "Mazda",
+      "model": "6",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "626",
+      "first_year": 1997,
+      "last_year": 2001
+    },
+    {
+      "make": "Mazda",
+      "model": "B-Series",
+      "first_year": 1999,
+      "last_year": 2006
+    },
+    {
+      "make": "Mazda",
+      "model": "BT-50",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-3",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-7",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-9",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "MPV",
+      "first_year": 1999,
+      "last_year": 2016
+    },
+    {
+      "make": "Mazda",
+      "model": "MX-5",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Mazda",
+      "model": "Premacy",
+      "first_year": 1999,
+      "last_year": 2006
+    },
+    {
+      "make": "Mazda",
+      "model": "RX-7",
+      "first_year": 1992,
+      "last_year": 2002
+    },
+    {
+      "make": "Mazda",
+      "model": "RX-8",
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "make": "Mazda",
+      "model": "Tribute",
+      "first_year": 2000,
+      "last_year": 2007
+    },
+    {
+      "make": "McLaren",
+      "model": "540C",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "McLaren",
+      "model": "570S",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "McLaren",
+      "model": "600LT",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "McLaren",
+      "model": "650S",
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "make": "McLaren",
+      "model": "675LT",
+      "first_year": 2015,
+      "last_year": 2017
+    },
+    {
+      "make": "McLaren",
+      "model": "720S",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "McLaren",
+      "model": "MP4-12C",
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "make": "McLaren",
+      "model": "P1",
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "make": "Mercedes",
+      "model": "A-class",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "AMG GT",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "AMG GT 4-Door",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "B-class",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "C-class",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "C-class Sport Coupe",
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "make": "Mercedes",
+      "model": "CL-class",
+      "first_year": 1992,
+      "last_year": 2014
+    },
+    {
+      "make": "Mercedes",
+      "model": "CLA-class",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "CLC-class ",
+      "first_year": 2008,
+      "last_year": 2011
+    },
+    {
+      "make": "Mercedes",
+      "model": "CLK-class",
+      "first_year": 1997,
+      "last_year": 2010
+    },
+    {
+      "make": "Mercedes",
+      "model": "CLS-class",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "E-class",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "E-class Coupe",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "EQC",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "G-class",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GL-class",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLA-class",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLB-class",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLC-class",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLC-class Coupe",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLE-class",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLE-class Coupe",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLK-class",
+      "first_year": 2008,
+      "last_year": 2015
+    },
+    {
+      "make": "Mercedes",
+      "model": "GLS-class",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "M-class",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "R-class",
+      "first_year": 2005,
+      "last_year": 2012
+    },
+    {
+      "make": "Mercedes",
+      "model": "S-class",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "S-class Cabrio",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "S-class Coupe",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "SL-class",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "SLK-class",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "SLR-class",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Mercedes",
+      "model": "SLS AMG",
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "make": "Mercedes",
+      "model": "Sprinter",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "Vaneo",
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "make": "Mercedes",
+      "model": "Viano",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Mercedes",
+      "model": "Vito",
+      "first_year": 1999,
+      "last_year": 2003
+    },
+    {
+      "make": "Mercedes",
+      "model": "X-class",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Mercury",
+      "model": "Grand Marquis",
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "make": "Mercury",
+      "model": "Mariner",
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "make": "Mercury",
+      "model": "Milan",
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "make": "Mercury",
+      "model": "Montego",
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "make": "Mercury",
+      "model": "Monterey",
+      "first_year": 1991,
+      "last_year": 2007
+    },
+    {
+      "make": "Mercury",
+      "model": "Mountaineer",
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "make": "Mercury",
+      "model": "Sable",
+      "first_year": 1995,
+      "last_year": 2005
+    },
+    {
+      "make": "MG",
+      "model": "TF",
+      "first_year": 2002,
+      "last_year": 2011
+    },
+    {
+      "make": "MG",
+      "model": "XPower SV",
+      "first_year": 2003,
+      "last_year": 2008
+    },
+    {
+      "make": "MG",
+      "model": "ZR",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "MG",
+      "model": "ZS",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "MG",
+      "model": "ZT",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "MG",
+      "model": "ZT-T",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "Mini",
+      "model": "Clubman",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Clubman S",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Clubvan",
+      "first_year": 2012,
+      "last_year": 2014
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper Cabrio",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper S",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper S Cabrio",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper S Countryman All4",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "Countryman",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Mini",
+      "model": "One",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "3000 GT",
+      "first_year": 1992,
+      "last_year": 2001
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "ASX",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Carisma",
+      "first_year": 1995,
+      "last_year": 2004
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Colt",
+      "first_year": 1995,
+      "last_year": 2012
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Dignity",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Eclipse",
+      "first_year": 1995,
+      "last_year": 2007
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Endeavor",
+      "first_year": 2004,
+      "last_year": 2011
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Galant",
+      "first_year": 1996,
+      "last_year": 2012
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Grandis",
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "i-MiEV",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "L200",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Lancer Evo",
+      "first_year": 2001,
+      "last_year": 2016
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Mirage",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Outlander XL",
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Pajero Pinin",
+      "first_year": 1999,
+      "last_year": 2007
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Pajero Sport",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Raider",
+      "first_year": 2006,
+      "last_year": 2007
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Space Gear",
+      "first_year": 1995,
+      "last_year": 2007
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Space Runner",
+      "first_year": 1999,
+      "last_year": 2004
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Space Star",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Nissan",
+      "model": "350Z",
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "make": "Nissan",
+      "model": "370Z",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Almera",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Almera Classic",
+      "first_year": 2005,
+      "last_year": 2012
+    },
+    {
+      "make": "Nissan",
+      "model": "Almera Tino",
+      "first_year": 2000,
+      "last_year": 2005
+    },
+    {
+      "make": "Nissan",
+      "model": "Altima",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Armada",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Bluebird Sylphy",
+      "first_year": 2000,
+      "last_year": 2012
+    },
+    {
+      "make": "Nissan",
+      "model": "GT-R",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Juke",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Leaf",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Maxima",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Micra",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Murano",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Navara",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Note",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "NP300",
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Patrol",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Primera",
+      "first_year": 1996,
+      "last_year": 2008
+    },
+    {
+      "make": "Nissan",
+      "model": "Qashqai",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Qashqai\u002B2",
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "make": "Nissan",
+      "model": "Quest",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Sentra",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Skyline",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "Nissan",
+      "model": "Sylphy",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Teana",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Terrano",
+      "first_year": 1993,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Tiida",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Titan",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "Titan XD",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "X-Trail",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Nissan",
+      "model": "XTerra",
+      "first_year": 2001,
+      "last_year": 2015
+    },
+    {
+      "make": "Nissan",
+      "model": "Z",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Noble",
+      "model": "M600",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Adam",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Agila",
+      "first_year": 2000,
+      "last_year": 2014
+    },
+    {
+      "make": "Opel",
+      "model": "Antara",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Astra",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Astra GTS",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Cascada",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Combo",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Corsa",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Corsa OPC",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Crossland X",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Frontera",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Opel",
+      "model": "Grandland X",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Insignia",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Insignia OPC",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Karl",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Meriva",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Mokka",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Omega",
+      "first_year": 1994,
+      "last_year": 2004
+    },
+    {
+      "make": "Opel",
+      "model": "Signum",
+      "first_year": 2003,
+      "last_year": 2008
+    },
+    {
+      "make": "Opel",
+      "model": "Speedster",
+      "first_year": 2000,
+      "last_year": 2007
+    },
+    {
+      "make": "Opel",
+      "model": "Tigra",
+      "first_year": 1994,
+      "last_year": 2009
+    },
+    {
+      "make": "Opel",
+      "model": "Vectra",
+      "first_year": 1995,
+      "last_year": 2008
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Opel",
+      "model": "Zafira",
+      "first_year": 1999,
+      "last_year": 2014
+    },
+    {
+      "make": "Opel",
+      "model": "Zafira Tourer",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "1007",
+      "first_year": 2004,
+      "last_year": 2009
+    },
+    {
+      "make": "Peugeot",
+      "model": "107",
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "make": "Peugeot",
+      "model": "108",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "2008",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "206",
+      "first_year": 1998,
+      "last_year": 2012
+    },
+    {
+      "make": "Peugeot",
+      "model": "207",
+      "first_year": 2006,
+      "last_year": 2014
+    },
+    {
+      "make": "Peugeot",
+      "model": "208",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "3008",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "301",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "307",
+      "first_year": 2000,
+      "last_year": 2011
+    },
+    {
+      "make": "Peugeot",
+      "model": "308",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "4007",
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "make": "Peugeot",
+      "model": "4008",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "406",
+      "first_year": 1995,
+      "last_year": 2004
+    },
+    {
+      "make": "Peugeot",
+      "model": "407",
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "make": "Peugeot",
+      "model": "408",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "5008",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "508",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "607",
+      "first_year": 2000,
+      "last_year": 2010
+    },
+    {
+      "make": "Peugeot",
+      "model": "807",
+      "first_year": 2002,
+      "last_year": 2014
+    },
+    {
+      "make": "Peugeot",
+      "model": "Boxer",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "Partner",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Peugeot",
+      "model": "RCZ Sport",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Plymouth",
+      "model": "Road Runner",
+      "first_year": 1968,
+      "last_year": 1970
+    },
+    {
+      "make": "Pontiac",
+      "model": "Aztec",
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "make": "Pontiac",
+      "model": "Bonneville",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "Pontiac",
+      "model": "Firebird",
+      "first_year": 1993,
+      "last_year": 2002
+    },
+    {
+      "make": "Pontiac",
+      "model": "G5 Pursuit",
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "make": "Pontiac",
+      "model": "G6",
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "make": "Pontiac",
+      "model": "G8",
+      "first_year": 2008,
+      "last_year": 2009
+    },
+    {
+      "make": "Pontiac",
+      "model": "Grand AM",
+      "first_year": 1998,
+      "last_year": 2005
+    },
+    {
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "first_year": 1996,
+      "last_year": 2008
+    },
+    {
+      "make": "Pontiac",
+      "model": "GTO",
+      "first_year": 2004,
+      "last_year": 2006
+    },
+    {
+      "make": "Pontiac",
+      "model": "Montana",
+      "first_year": 1997,
+      "last_year": 2009
+    },
+    {
+      "make": "Pontiac",
+      "model": "Solstice",
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "make": "Pontiac",
+      "model": "Sunfire",
+      "first_year": 1995,
+      "last_year": 2005
+    },
+    {
+      "make": "Pontiac",
+      "model": "Torrent",
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "make": "Pontiac",
+      "model": "Vibe",
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "make": "Porsche",
+      "model": "718 Boxster",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "718 Cayman",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "911",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "Boxster",
+      "first_year": 1996,
+      "last_year": 2016
+    },
+    {
+      "make": "Porsche",
+      "model": "Cayenne",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "Cayman",
+      "first_year": 2005,
+      "last_year": 2016
+    },
+    {
+      "make": "Porsche",
+      "model": "Macan",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "Panamera",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan",
+      "first_year": 2020,
+      "last_year": 0
+    },
+    {
+      "make": "Ravon",
+      "model": "Gentra",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Arkana",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Avantime",
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "make": "Renault",
+      "model": "Captur",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Clio",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Duster",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Duster Oroch",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Espace",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Fluence",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Grand Scenic",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Kadjar",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Kangoo",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Kaptur",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Koleos",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Laguna",
+      "first_year": 1993,
+      "last_year": 2015
+    },
+    {
+      "make": "Renault",
+      "model": "Latitude",
+      "first_year": 2010,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Logan",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Master",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Megane",
+      "first_year": 1996,
+      "last_year": 2016
+    },
+    {
+      "make": "Renault",
+      "model": "Modus",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Renault",
+      "model": "Sandero",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Sandero Stepway",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Scenic",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Symbol",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Talisman",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Trafic",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Twingo",
+      "first_year": 1993,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Twizy",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Renault",
+      "model": "Vel Satis",
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "make": "Renault",
+      "model": "Wind",
+      "first_year": 2010,
+      "last_year": 2013
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Rolls-Royce",
+      "model": "Cullinan",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Rolls-Royce",
+      "model": "Dawn",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Rolls-Royce",
+      "model": "Ghost",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Rolls-Royce",
+      "model": "Phantom",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Rolls-Royce",
+      "model": "Wraith",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Rover",
+      "model": "25",
+      "first_year": 1999,
+      "last_year": 2008
+    },
+    {
+      "make": "Rover",
+      "model": "400",
+      "first_year": 1996,
+      "last_year": 2000
+    },
+    {
+      "make": "Rover",
+      "model": "45",
+      "first_year": 2000,
+      "last_year": 2008
+    },
+    {
+      "make": "Rover",
+      "model": "600",
+      "first_year": 1999,
+      "last_year": 2004
+    },
+    {
+      "make": "Rover",
+      "model": "75",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "Rover",
+      "model": "Streetwise",
+      "first_year": 2003,
+      "last_year": 2005
+    },
+    {
+      "make": "Saab",
+      "model": "9-2x",
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "make": "Saab",
+      "model": "9-3",
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "make": "Saab",
+      "model": "9-4x",
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "make": "Saab",
+      "model": "9-5",
+      "first_year": 1997,
+      "last_year": 2012
+    },
+    {
+      "make": "Saab",
+      "model": "9-7x",
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "make": "Saturn",
+      "model": "Aura",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Saturn",
+      "model": "Ion",
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "make": "Saturn",
+      "model": "LW",
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "make": "Saturn",
+      "model": "Outlook",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Saturn",
+      "model": "Sky",
+      "first_year": 2007,
+      "last_year": 2007
+    },
+    {
+      "make": "Saturn",
+      "model": "Vue",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Scion",
+      "model": "FR-S",
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "make": "Scion",
+      "model": "tC",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Scion",
+      "model": "xA",
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "make": "Scion",
+      "model": "xB",
+      "first_year": 2003,
+      "last_year": 2015
+    },
+    {
+      "make": "Scion",
+      "model": "xD",
+      "first_year": 2007,
+      "last_year": 2014
+    },
+    {
+      "make": "Seat",
+      "model": "Alhambra",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Seat",
+      "model": "Altea",
+      "first_year": 2004,
+      "last_year": 2015
+    },
+    {
+      "make": "Seat",
+      "model": "Altea Freetrack",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Seat",
+      "model": "Altea XL",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Seat",
+      "model": "Arosa",
+      "first_year": 1997,
+      "last_year": 2006
+    },
+    {
+      "make": "Seat",
+      "model": "Ateca",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Seat",
+      "model": "Cordoba",
+      "first_year": 1999,
+      "last_year": 2009
+    },
+    {
+      "make": "Seat",
+      "model": "Exeo",
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "make": "Seat",
+      "model": "Ibiza",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Seat",
+      "model": "Leon",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Seat",
+      "model": "Mii",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Seat",
+      "model": "Toledo",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Citigo",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Fabia",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Felicia",
+      "first_year": 1995,
+      "last_year": 2000
+    },
+    {
+      "make": "Skoda",
+      "model": "Kamiq",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Karoq",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Kodiaq",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia Scout",
+      "first_year": 2007,
+      "last_year": 2013
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia Tour",
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "make": "Skoda",
+      "model": "Praktik",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Skoda",
+      "model": "Rapid",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Rapid Spaceback (NH1)",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Roomster",
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "make": "Skoda",
+      "model": "Superb",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Skoda",
+      "model": "Yeti",
+      "first_year": 2010,
+      "last_year": 2018
+    },
+    {
+      "make": "Smart",
+      "model": "Forfour",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Smart",
+      "model": "Fortwo",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Smart",
+      "model": "Roadster",
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Actyon",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Actyon Sports",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Chairman",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Korando",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Kyron",
+      "first_year": 2005,
+      "last_year": 2016
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Musso",
+      "first_year": 1993,
+      "last_year": 2007
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Musso Sport",
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Rexton",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Rodius",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Stavic",
+      "first_year": 2013,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "Tivoli",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Ssang Yong",
+      "model": "XLV",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Ascent",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Baja",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Subaru",
+      "model": "Crosstrack",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Exiga",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Forester",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Impreza",
+      "first_year": 1992,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Justy",
+      "first_year": 1995,
+      "last_year": 2006
+    },
+    {
+      "make": "Subaru",
+      "model": "Legacy",
+      "first_year": 1994,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Levorg",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Outback",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "Traviq",
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "make": "Subaru",
+      "model": "Tribeca",
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "make": "Subaru",
+      "model": "WRX",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Subaru",
+      "model": "XV",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Alto",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Baleno",
+      "first_year": 1995,
+      "last_year": 2003
+    },
+    {
+      "make": "Suzuki",
+      "model": "Celerio",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Ciaz",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Grand Vitara",
+      "first_year": 1998,
+      "last_year": 2014
+    },
+    {
+      "make": "Suzuki",
+      "model": "Grand Vitara XL7",
+      "first_year": 1998,
+      "last_year": 2014
+    },
+    {
+      "make": "Suzuki",
+      "model": "Ignis",
+      "first_year": 2000,
+      "last_year": 2008
+    },
+    {
+      "make": "Suzuki",
+      "model": "Jimny",
+      "first_year": 1998,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Kizashi",
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "make": "Suzuki",
+      "model": "Liana",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Suzuki",
+      "model": "Splash",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Suzuki",
+      "model": "Swift",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "SX4",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Vitara",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Wagon R",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Suzuki",
+      "model": "Wagon R\u002B",
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "Tesla",
+      "model": "Model Y",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "4Runner",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Alphard",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Auris",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Avalon",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Avensis",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Avensis Verso",
+      "first_year": 2001,
+      "last_year": 2010
+    },
+    {
+      "make": "Toyota",
+      "model": "Aygo",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "C-HR",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Caldina",
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Celica",
+      "first_year": 1999,
+      "last_year": 2006
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla Verso",
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "GT 86",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Hiace",
+      "first_year": 2006,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Highlander",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Hilux",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "iQ",
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "make": "Toyota",
+      "model": "ist",
+      "first_year": 2002,
+      "last_year": 2016
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser Prado",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Mark II",
+      "first_year": 2000,
+      "last_year": 2004
+    },
+    {
+      "make": "Toyota",
+      "model": "Mirai",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "MR2",
+      "first_year": 1999,
+      "last_year": 2007
+    },
+    {
+      "make": "Toyota",
+      "model": "Picnic",
+      "first_year": 1995,
+      "last_year": 2001
+    },
+    {
+      "make": "Toyota",
+      "model": "Previa",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Prius",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "RAV4",
+      "first_year": 1994,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Sequoia",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Sienna",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Supra",
+      "first_year": 2019,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Tundra",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Venza",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Verso",
+      "first_year": 2009,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Vitz",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Yaris",
+      "first_year": 1999,
+      "last_year": 0
+    },
+    {
+      "make": "Toyota",
+      "model": "Yaris Verso",
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "make": "UAZ",
+      "model": "Pickup",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "UAZ",
+      "model": "\u041F\u0430\u0442\u0440\u0438\u043E\u0442",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "UAZ",
+      "model": "\u0425\u0430\u043D\u0442\u0435\u0440",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "2101-2107",
+      "first_year": 1976,
+      "last_year": 2012
+    },
+    {
+      "make": "VAZ",
+      "model": "2108, 2109, 21099",
+      "first_year": 1984,
+      "last_year": 2004
+    },
+    {
+      "make": "VAZ",
+      "model": "2110, 2111, 2112",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "2113, 2114, 2115",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "4x4 Urban",
+      "first_year": 2014,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Granta",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Largus",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Largus Cross",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Vesta Cross",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Vesta Sport",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "Vesta SW",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "XRay",
+      "first_year": 2016,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "XRay Cross",
+      "first_year": 2018,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "\u0412\u0435\u0441\u0442\u0430",
+      "first_year": 2015,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "\u041A\u0430\u043B\u0438\u043D\u0430",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "\u041D\u0438\u0432\u0430 4X4",
+      "first_year": 1977,
+      "last_year": 0
+    },
+    {
+      "make": "VAZ",
+      "model": "\u041E\u043A\u0430",
+      "first_year": 1988,
+      "last_year": 2008
+    },
+    {
+      "make": "VAZ",
+      "model": "\u041F\u0440\u0438\u043E\u0440\u0430",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Amarok",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Arteon",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Beetle",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Bora",
+      "first_year": 1998,
+      "last_year": 2005
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Caddy",
+      "first_year": 2004,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "CC",
+      "first_year": 2012,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Crafter",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "CrossGolf",
+      "first_year": 2007,
+      "last_year": 2009
+    },
+    {
+      "make": "Volkswagen",
+      "model": "CrossPolo",
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "make": "Volkswagen",
+      "model": "CrossTouran",
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Eos",
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Fox",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "first_year": 2005,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Lupo",
+      "first_year": 1998,
+      "last_year": 2005
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Multivan",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "New Beetle",
+      "first_year": 1998,
+      "last_year": 2007
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Passat",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Passat CC",
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Phaeton",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Pointer",
+      "first_year": 1993,
+      "last_year": 1997
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Polo",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Routan",
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Scirocco",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Sharan",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "T-Roc",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Teramont",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "first_year": 2007,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Touareg",
+      "first_year": 2002,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Touran",
+      "first_year": 2003,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Transporter",
+      "first_year": 1990,
+      "last_year": 0
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Up",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "C30",
+      "first_year": 2007,
+      "last_year": 2013
+    },
+    {
+      "make": "Volvo",
+      "model": "C70",
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "make": "Volvo",
+      "model": "C70 Convertible",
+      "first_year": 1997,
+      "last_year": 2006
+    },
+    {
+      "make": "Volvo",
+      "model": "C70 Coupe",
+      "first_year": 1996,
+      "last_year": 2007
+    },
+    {
+      "make": "Volvo",
+      "model": "S40",
+      "first_year": 1995,
+      "last_year": 2012
+    },
+    {
+      "make": "Volvo",
+      "model": "S60",
+      "first_year": 2000,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "S70",
+      "first_year": 1996,
+      "last_year": 2000
+    },
+    {
+      "make": "Volvo",
+      "model": "S80",
+      "first_year": 1998,
+      "last_year": 2016
+    },
+    {
+      "make": "Volvo",
+      "model": "S90",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "V40",
+      "first_year": 1995,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "V50",
+      "first_year": 2004,
+      "last_year": 2012
+    },
+    {
+      "make": "Volvo",
+      "model": "V60",
+      "first_year": 2011,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "V70",
+      "first_year": 1996,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "V90",
+      "first_year": 1997,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40",
+      "first_year": 2017,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "XC60",
+      "first_year": 2008,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "XC70",
+      "first_year": 2001,
+      "last_year": 0
+    },
+    {
+      "make": "Volvo",
+      "model": "XC90",
+      "first_year": 2002,
+      "last_year": 0
+    }
+  ]
+}

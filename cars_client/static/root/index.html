@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 10px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+ ul#ulStuff {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+ul#ulStuff li {
+  border: 1px solid #ddd; /* Add a thin border to each list item */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Add a grey background color */
+  padding: 12px; /* Add some padding */
+}
+</style>
+<body>
+<script>
+function parameters() {
+    let url = window.location.href;
+    let paramString = new RegExp('(.*)[?](.*)').exec(url);
+    if (null == paramString) {
+      return {'base': url, 'params': null};
+    }
+  
+    if (paramString[2].includes("&amp;")) {
+      var paramList = paramString[2].split("&amp;");
+    } else {
+      var paramList = paramString[2].split("&");
+    }
+  
+    let params = [];
+  
+    for (let i = 0; i < paramList.length; i++) {
+      let values = paramList[i].split("=");
+      params[values[0]] = values[1];
+    }
+    return {"base": paramString[1], "params": params};
+  }
+
+  let p = parameters();
+
+  let url = "http://127.0.0.1:9100/cars/A/1999/make:like,first_year:gt";
+
+  if(p.params != null)
+  {
+    let car = p.params["car"];
+    let first_year = p.params["first_year"];
+    let query = p.params["query"];
+
+    url = "http://127.0.0.1:9100/cars/" + 
+    car + "/" +
+    first_year + "/" +
+    query;
+  }
+
+  fetch(url)
+    .then(res => res.json())//response type
+    .then(function(data){
+      const tmpStuff = data;
+      
+      
+      var ulS = document.getElementById("ulStuff");
+
+      for(var i = 0; i < tmpStuff.cars.length; i++)
+      {
+          liE = document.createElement("LI");
+          //https://www.bing.com/images/search?q=Acura+ILX+2012&form=HDRSC2&first=1&tsc=ImageBasicHover
+          var url = "https://www.bing.com/images/search?q=" +
+          tmpStuff.cars[i].make + "+" +
+          tmpStuff.cars[i].model + "+" +
+          tmpStuff.cars[i].first_year +
+          "&form=HDRSC2&first=1&tsc=ImageBasicHover";
+
+          liE.innerHTML = "<a href='" + url + "'>" + tmpStuff.cars[i].make + " " + tmpStuff.cars[i].model + " " + tmpStuff.cars[i].first_year + "</a>";
+          ulS.appendChild(liE);
+      }
+      
+
+    } ); //log the data;
+</script>
+<div style="height:300px; overflow:scroll">
+<ul id="ulStuff">
+</ul>
+</div>
+</body>
+</html> 
