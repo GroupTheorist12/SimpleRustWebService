@@ -31,7 +31,7 @@ You should see the following output:
 
 3.  Open a browser and go to http://127.0.0.1:8080/index.html. 
 
-You should see the following in you browser: 
+You should see the following in your browser: 
 
 ![Cars Client](cars_client.png)
 
