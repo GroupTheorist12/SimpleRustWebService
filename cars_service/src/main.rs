@@ -3,7 +3,6 @@ use actix_web::{get, web, HttpResponse, Result};
 use serde::{Deserialize, Serialize};
 extern crate serde;
 use actix_cors::Cors;
-//use actix_web::http::header;
 
 use std::fs::File;
 use std::io::Read;
